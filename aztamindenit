@@ -1,0 +1,78 @@
+"kész"Loginnál, alapból megkapja a kezdő cuccokat, + kék-piros auti potit, 10 támadó-mozgási sebességes italt, + 1 köpit ami örökös.
+"kész"/"buff" skillek idejének megnövelése. (1 órára) 1600+1600*k
+"KÉSZ"Level 5-n quest alapján megkapja a skilleket.         
+"KÉSZ"Level 30-n megkapja a 30-s pve szettet (ébenfa)       
+Level 55-n megkapja a 55-s pve szettet (ametiszt) és az örökös Mountját(15 mob, 100 támadó érték, átlagkár 10), és az örökös harmatokat. (kék, piros, fehér, sárga, narancs.)
+Level 75-n megkapja a 75-s pve szettet (lélekkristály) (ami fejleszthető lesz 95-re, aztán 110-re). + a sárkányisten védekezés, támadás, vit, és int(int az mobos lesz)
+"kész"Sebzés színének módosítása, akár más betűtipus használata. : http://hugames.hu/index.php?threads/kritikus-találat-sebzésének-új-szín.189/
+"KÉSZ"Optok más színűvé tétele. 
+Játékos csatlakozik, mounton üljön vagy mount elő legyen hívva, + cuccok fel legyenek szerelve.
+Tabak questet megbeszélni kinajival
+upgrade refine scroll   megbeszélni kinajival    olyan itemet kelljen craftolni, amit csak a craftolásból lehessen megszerezni
+buffs   nevű keszt megbeszélése kinajival
+biosz küldik megbeszélése
+cube.quest.-ben vannak az övek meg minden szar, megbeszélni kinajival
+empirewar.quest megbeszélése
+events.quest átnézése
+give_basic_weapon  átbeszélése
+"KÉSZ"bossok fölött: effect
+"kész"fast_pickup
+"kész" CH ÉS SERVER NÉV MÁS SZÍNŰ a login window-nál
+bónusz panel
+hide costume
+character details
+--------passive skills: strong against: metin boss mob
+alkímia átírása
+--------chest drop preview
+auto sziccs bot
+--------gaya system
+harmatokat növényekért lehessen venni
+"source"offline shop és offline shop keresőőőőő
+CH váltó
+MOBOS ÖV
+olyan kosztümök, amiket bossoktól lehet szerezni X időre pl: azrael kosztüm
+won system
+"kész"cuccok neve fölött a szerver neve: https://metin2.dev/board/topic/375-add-server-name-on-item-description/
+amikor meghalsz, a cooldowntime resiződik: https://metin2.dev/board/topic/23884-reset-skill-cooldown-on-death/?tab=comments#comment-128105
+--------auto_refine: https://metin2.dev/board/topic/19368-metin2-auto-refine-option-just-python-mod/?tab=comments#comment-105168
+--------discord rich present: https://metin2.dev/board/topic/24075-c-metin2-discord_rpc-window-rank-map-name-guild-race-empire/?tab=comments#comment-129129
+--------Channelnél kiírja hány játéks onine: https://metin2.dev/board/topic/23904-channel-status-updateplayer-count/?tab=comments#comment-128223
+--------game tips onloading screen: https://metin2.dev/board/topic/23824-rlsloading-tip-info/?tab=comments#comment-127826
+--------Rang ad bónuszt: https://metin2zone.net/index.php?/topic/23224-c-add-a-bonus-of-alignment/
+--------amikor megdöglök, a buff nem megy le rólam: https://metin2.dev/board/topic/14443-unremovable-affects-after-dead/
+shining system:https://www.metin2downloads.to/thread/7326-c-tamashii-shiningssystem/?__cf_chl_captcha_tk__=4413a92d89ee39ca1ef03f29ad39981a82f7409f-1595277958-0-AZyruK60CWPdRn5zDbRPhVVKAx7MV1EOL_u2zMkzFe7V98k9yvncQ2-reIZ4Wkzp9OXjZMTUf_VVdjcX_q2bb9PFaiWSzzPT9eJDNwNEKEcv54woDvbkM2QuNzl23URYULMluymWdYdqn7A-5VRoWifvhaOmWr39LkIGklaScfulqBi3NCA430liWAQGOa2uH7L_2I-DfV0za1xm99IqzKnLAqhLDlf9WbRgpWbptPbjQXNt7lrXhs3rhcjOYgzHgfoOiKMuxdvtgla7vjR9zoDdXwsp0b4TqYPCOpIiy45Mt9M09N6Fkgj5m0Usu2bvxiYnRjFFrYvfUNqsjgsQocqGdly5VUJ_qaeIzD9VE-5EolvIZ9xBuAx2i61vLWfo3t1jb5D7GD8n6GmgrpIpfVpt3mht-GF6H9oGKWV3rG73F2azOh7RQWxSPtneNz_hhnNKQ6ugaTeUF2G1AT8AGzpiOrIr9QPurKcKE4CK-BVHIpI4_DPPQ2JP-R22JouIAtW7dqvi_ODwPjKrCAkMgrpLla4-SIN9raFe80IXJ7X4-2429rMZqDL52WQPLMcz9xjWxrzAFgLuh98uBX_3kDLmNNgST903AgGrkM6fgZXg
+VIP_SySTEM: https://metin2.dev/board/topic/11839-release-vip-system-from-src/
+--------DTGUI
+--------oldal_leforditasa: https://devcore.hu/showthread.php?tid=30
+admin tool_ban: https://devcore.hu/showthread.php?tid=123
+instant: játék bezárása: https://devcore.hu/showthread.php?tid=81
+--------kosztüm eltüntetése(ne lásd): https://devcore.hu/showthread.php?tid=48
+gyűrű/nyalóka: drop: item, yang, támadóérték, exp ------- fejleszthető legyen: bronz silver gold diamond
+"kész"mobok eltűnése hamar ha meghaltak: http://hugames.hu/index.php?threads/szörny-halál-utáni-eltűnés-ideje.214/#post-1688
+--------valami boss info system: http://hugames.hu/index.php?threads/boss-info-system.297/#post-2569
+affect ption system: http://hugames.hu/index.php?threads/affect-potion-system.188/
+--------target_info
+--------bonus leltar
+ingame_itemshop
+egyberakott kövekre fix: http://hugames.hu/index.php?threads/egyberakott-kövekre-fix.34/
+füst készítés: http://hugames.hu/index.php?threads/füstölés-készítése.465/#post-6007
+"kész" átláthatóbb yang a kereskedésnél : http://hugames.hu/index.php?threads/Átláthatóbb-kereskedés-árak.260/
+bal oldalra felugró ablakch váltáshoz: http://hugames.hu/index.php?threads/ch-váltó-bal-oldalt-kicsúsztatható-menü.258/
+
+
+
+
+
+"50% kész"30-s cuccokból legyen fejleszthető 55-s cucc, aztán a 75, 95, 110. 
+
+hgyan nézzen ki a bemutatónk: https://www.elitepvpers.com/forum/metin2-pserver-advertising/3845000-metin-ii-cr-reborn-system-unique-gameplay.html
+								https://eberium.eu/presentation.html?fbclid=IwAR0s_iikNLlhGuucFPc_Ig1X3_LmFRkPsJO6kqSsGs3mDWfBezwahUvP2zs
+
+Valamilyen gyűrű fejlesztése: 30539
+
+55-s szett fejlesztése 75-re ===  "30265-30266-30155" (medál darab 1-2; mirine babája)
+75-s szett fejelsztése 95-re ===  "30138-30156-"
+95-s szett fejelsztése 110-re === 
+
+
+"refine-proto" (36(1)=fegyo, 36(2)=vért, 36(3)=nyakas, 36(4)=füles, 36(5)=cipő,36(6)=karos, 36(7)=sapka, 36(8)=pajzs)
